@@ -3104,6 +3104,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 692e11b0e5c72fd41b279b213195109e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _playerProgress: {fileID: 11400000, guid: b601f42106e4f8b4384441ada7c14b94, type: 2}
   _soalSoal: {fileID: 11400000, guid: b71acdcf0ec51ae41a3c289f408f0bd2, type: 2}
   _pertanyaan: {fileID: 337828172}
   _pilihanJawaban:
