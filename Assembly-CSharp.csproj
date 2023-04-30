@@ -62,15 +62,18 @@
     <Compile Include="Assets\Game Kuis\Script\LevelPackKuis.cs" />
     <Compile Include="Assets\Game Kuis\Script\GameSceneManager.cs" />
     <Compile Include="Assets\Game Kuis\Script\UI_OpsiLevelPack.cs" />
+    <Compile Include="Assets\Game Kuis\Script\UI_LevelPackList.cs" />
+    <Compile Include="Assets\Game Kuis\Script\LevelMenuDataManager.cs" />
     <Compile Include="Assets\Game Kuis\Script\UI_Timer.cs" />
     <Compile Include="Assets\Game Kuis\Script\LevelManager.cs" />
-    <Compile Include="Assets\Game Kuis\Script\LevelSoalKuis.cs" />
-    <Compile Include="Assets\Game Kuis\Script\PlayerProgress.cs" />
-    <Compile Include="Assets\Game Kuis\Script\UI_PointJawaban.cs" />
-    <Compile Include="Assets\Game Kuis\Script\UI_LevelPackList.cs" />
     <Compile Include="Assets\Game Kuis\Script\UI_LevelKuisList.cs" />
+    <Compile Include="Assets\Game Kuis\Script\LevelSoalKuis.cs" />
     <Compile Include="Assets\Game Kuis\Script\InisialDataGameplay.cs" />
-    <Compile Include="Assets\Game Kuis\Script\LevelMenuDataManager.cs" />
+    <Compile Include="Assets\Game Kuis\Script\PlayerProgress.cs" />
+    <Compile Include="Assets\Game Kuis\Script\UI_MenuConfirmMessage.cs" />
+    <Compile Include="Assets\Game Kuis\Script\UI_PointJawaban.cs" />
+    <Compile Include="Assets\Game Kuis\Script\AudioManager.cs" />
+    <Compile Include="Assets\Game Kuis\Script\PemanggilSuara.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

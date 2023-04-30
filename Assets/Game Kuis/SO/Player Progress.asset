@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Player Progress
   m_EditorClassIdentifier: 
   _fileName: contoh.txt
+  _startingLevelPackName: Level Pack 1
   progresData:
     koin: 200
